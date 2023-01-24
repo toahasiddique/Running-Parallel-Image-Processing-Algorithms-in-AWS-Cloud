@@ -1,1 +1,1 @@
-# Running-Parallel-Image-Processing-Algorithms-in-AWS-Cloud
+# Running Parallel Image Processing Algorithms on AWS Cloud
